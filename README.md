@@ -82,3 +82,4 @@ lop
 bnj
 klo
 jkop
+jko
